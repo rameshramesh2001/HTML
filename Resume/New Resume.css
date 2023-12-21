@@ -18,6 +18,7 @@ body {
 	margin: 0px;
 	display: grid;
 	grid-template-columns: 2fr 4fr;
+	font-family: "Sofia", sans-serif;
 }
 .left {
 	position: initial;
